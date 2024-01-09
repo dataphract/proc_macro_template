@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "{{project-name}}",
+    "{{project-name}}_macros",
+    "{{project-name}}_types",
+]
+resolver = "2"
